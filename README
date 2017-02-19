@@ -1,0 +1,4 @@
+keytable
+---------
+
+Keytable is a tool to get/set keycode/scancode tables, based on v4l-utils / ir-keytable.
